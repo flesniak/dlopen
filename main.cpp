@@ -5,7 +5,6 @@
 #include <dirent.h>
 #include <unistd.h>
 
-#include "interface.h"
 #include "plugincontainer.h"
 
 PluginContainer* load_plugin(const std::string& path) {

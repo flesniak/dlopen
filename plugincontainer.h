@@ -1,7 +1,7 @@
 #ifndef PLUGINCONTAINER_H
 #define PLUGINCONTAINER_H
 
-#include "interface.h"
+#include "plugin_base.h"
 
 class PluginContainer {
 public:

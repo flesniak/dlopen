@@ -1,4 +1,4 @@
-#include "interface.h"
+#include "plugin_base.h"
 
 class B : public Base {
 public:
